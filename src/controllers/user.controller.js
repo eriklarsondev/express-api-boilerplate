@@ -13,4 +13,13 @@ export class UserController {
       next(err)
     }
   }
+
+  async getUserBySlug(req, res, next) {
+    try {
+      const response = await userService.getUserBySlug(req.params.slug)
+      res.status(200).json(response)
+    } catch (err) {
+      next(err)
+    }
+  }
 }
