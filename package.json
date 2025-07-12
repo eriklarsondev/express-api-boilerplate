@@ -2,7 +2,7 @@
   "name": "express-api-boilerplate",
   "version": "0.1.0",
   "author": "Erik Larson",
-  "description": "Boilerplate code for custom Express.js project optimized for rapid API development",
+  "description": "A fast, minimal Express.js boilerplate to kickstart your next custom API project—built with best practices in mind",
   "keywords": [],
   "license": "ISC",
   "main": "dist-server/app.js",

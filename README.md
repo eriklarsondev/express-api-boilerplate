@@ -1,3 +1,3 @@
 # Express API Boilerplate
 
-Boilerplate code for custom Express.js project optimized for rapid API development
+A fast, minimal Express.js boilerplate to kickstart your next custom API project—built with best practices in mind
